@@ -70,9 +70,12 @@ while (i<tvShows.length){
 
 */
 
+var i = 1;
 
-
-
+while (i<10){
+	console.log(i + " x 3 = " + i * 3);
+	i++;
+}
 
 /*5. Multiples of 3 and 5. Create a while loop that will loop through 100 numbers. Your job is to program the following:
 
